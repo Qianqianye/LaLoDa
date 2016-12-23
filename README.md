@@ -1,6 +1,6 @@
 # LaLoDa
 
-> LaLoDa: Latitude-Longitude-Data. This is a collection of Lat-Lon data about physical places which send unexpected messages to the world. This project is an experiment trying to translate space and data to tangible media.
+> LaLoDa: Latitude-Longitude-Data. LaLoDa is a collection of Lat-Lon data about physical places which send unexpected messages to the world. This project is an experiment trying to translate space and data to tangible media.
 
 ![demo](/demo.png)
 
